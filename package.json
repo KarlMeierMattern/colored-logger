@@ -1,0 +1,35 @@
+{
+  "name": "colored-logger",
+  "version": "1.0.0",
+  "description": "A simple colored console logger with timestamps",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "logger",
+    "console",
+    "colored",
+    "timestamp",
+    "logging"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/colored-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/colored-logger/issues"
+  },
+  "homepage": "https://github.com/yourusername/colored-logger#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
